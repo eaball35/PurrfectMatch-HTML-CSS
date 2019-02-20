@@ -1,0 +1,36 @@
+body {
+	background: url(https://images.wallpaperscraft.com/image/lynx_predator_large_cat_sits_119138_2048x1152.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Merriweather', serif!important;
+}
+
+html {
+
+	height: 100%;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+	color:white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,1)
+				 0px 18px 23px yellow(0,0,0,1)
+	font-family: 'Merriweather',serif;
+	color:white;
+}
+
+#content h1 {
+	font-weight: 700!important;
+}
+
+#content h3 {
+	font-size:2em;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8
+	border-bottom:1px solid rgb(0,0,0,0.2);
+}
